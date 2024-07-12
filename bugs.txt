@@ -1,0 +1,16 @@
+> Move function has bugs
+    Test cases to find out 
+> Look into chain moves rule. If no chain available, automatically next player's turn
+> Also check for moves with wall collision
+> Draw Win Condition
+> Option for Chain attack
+> Weird jump square visual error
+> Blank Square Show Legal Moves error
+
+RESOLVED> After a capture, only the capturee piece can move
+RESOLVED> King Promotion
+RESOLVED> Does not force alternate moves for each side. One side can continuously move.
+RESOLVED > Overcounting in generateLegalMoves()
+RESOLVED> Alternation
+
+
